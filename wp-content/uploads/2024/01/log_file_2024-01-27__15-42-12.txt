@@ -1,0 +1,54 @@
+
+---Downloaded files---
+The import files for: Import Logtra were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = https://vietlight.washinengine.com
+Data file = /home/vietlight.washinengine.com/public_html/wp-content/themes/logtra/sample-data/contents-demo.xml
+Widget file = /home/vietlight.washinengine.com/public_html/wp-content/themes/logtra/sample-data/widget-settings.json
+Customizer file = /home/vietlight.washinengine.com/public_html/wp-content/themes/logtra/sample-data/customizer-data.dat
+Redux files:
+not defined!
+
+---Importing widgets---
+Primary Sidebar 1 : 
+
+Logtra Search - No Title - Widget already exists
+Categories - Category - Widget already exists
+Logtra Recent Posts - Recent Posts - Widget already exists
+Tag Cloud - No Title - Widget already exists
+
+Primary Sidebar 2 : 
+
+Text - Newsletter - Widget already exists
+
+Service Sidebar : 
+
+Logtra Search - No Title - Widget already exists
+Categories - Category - Widget already exists
+
+Footer One Widget : 
+
+Image - No Title - Widget already exists
+Footer About - No Title - Imported
+Image - No Title - Widget already exists
+
+Footer Two Widget : 
+
+Footer Links - Useful Links - Imported
+
+Footer Three Widget : 
+
+Footer Working Time - Working Hours - Imported
+
+Footer Four Widget : 
+
+Footer Newsletter - Newsletter - Imported
+
+
+
+---Importing customizer settings---
+Error: The customizer import file is not in a correct format. Please make sure to use the correct customizer import file.
+
+---ocdi/after_import---
+
